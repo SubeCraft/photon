@@ -1,6 +1,6 @@
 name: photon
 version: 0.1.0
-description: |e
+description: |
   A GUI library for Crystal.
 
 license: MIT
