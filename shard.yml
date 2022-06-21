@@ -1,0 +1,17 @@
+name: photon
+version: 0.1.0
+description: |e
+  A GUI library for Crystal.
+
+license: MIT
+
+authors:
+  - SubeCraft
+
+repository: https://github.com/SubeCraft/photon
+
+crystal: 1.4.1
+
+dependencies:
+  sdl:
+    github: ysbaddaden/sdl.cr
